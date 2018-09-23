@@ -1,1 +1,1 @@
-alert('javascript running ok')
+console.log("javascript running ok");
